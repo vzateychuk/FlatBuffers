@@ -1,5 +1,5 @@
-# Compiled class file
-*.class
+# Compiled  **compiled bytecode files** (`.pyc` files)
+__pycache__/
 
 # Log file
 *.log
